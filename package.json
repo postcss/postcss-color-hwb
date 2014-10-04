@@ -1,6 +1,6 @@
 {
   "name": "postcss-color-hwb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "PostCSS plugin to transform W3C CSS hwb() color to more compatible CSS (rgb() (or rgba()))",
   "keywords": [
     "css",
