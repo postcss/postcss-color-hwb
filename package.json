@@ -24,6 +24,7 @@
   ],
   "dependencies": {
     "color": "^0.7.1",
+    "postcss-message-helpers": "^1.1.0",
     "reduce-function-call": "^1.0.1"
   },
   "devDependencies": {
