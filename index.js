@@ -11,7 +11,7 @@ var reduceFunctionCall = require("reduce-function-call")
  */
 module.exports = postcss.plugin("postcss-color-hwb", function() {
   return function(style) {
-    style.eachDecl(function transformDecl(decl) {
+    style.walkDecls(function transformDecl(decl) {
       if (!decl.value || decl.value.indexOf("hwb(") === -1) {
         return
       }
