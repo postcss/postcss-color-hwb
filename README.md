@@ -1,4 +1,4 @@
-# postcss-color-hwb [![Build Status](https://travis-ci.org/postcss/postcss-color-hwb.png)](https://travis-ci.org/postcss/postcss-color-hwb)
+# postcss-color-hwb [![CSS Standard Status](https://jonathantneal.github.io/css-db/badge/css-color-the-hwb-notation.svg)](https://jonathantneal.github.io/css-db/#css-color-the-hwb-notation) [![Build Status](https://travis-ci.org/postcss/postcss-color-hwb.png)](https://travis-ci.org/postcss/postcss-color-hwb)
 
 > [PostCSS](https://github.com/postcss/postcss) plugin to transform [W3C CSS hwb() color](http://dev.w3.org/csswg/css-color/#the-hwb-notation) to more compatible CSS (rgb() (or rgba())).
 
